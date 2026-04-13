@@ -49,7 +49,7 @@ The notebook runs through 20 analysis tasks:
 7. Count of unique Fuel_Type values
 8. Select a single column
 9. Select multiple columns
-10. Create a `Usage_Level` column based on kilometers driven — Lightly used (≤10,000 km), Moderately used (≤50,000 km), Heavily used (>50,000 km)
+10. Create a `Usage_Level` column based on kilometers driven - Lightly used (≤10,000 km), Moderately used (≤50,000 km), Heavily used (>50,000 km)
 11. Rename `Year` to `Manufacture_Year`
 12. Filter cars with selling price > 5.50 lakh
 13. Filter by price and show transmission type
@@ -67,10 +67,10 @@ The updated dataset (with the new `Usage_Level` column) is saved as `cars_update
 
 ## Key Findings
 
-- Automatic cars average ~4.78 lakh in selling price; manual cars average ~1.98 lakh
+- Automatic cars average 4.78 lakh in selling price; manual cars average 1.98 lakh
 - Dealers account for 6,362 listings vs 3,638 from individual sellers
 - The highest-priced car is a 2010 Land Cruiser listed at 35 lakh
-- Diesel cars have the widest price range — present price goes up to 93.78 lakh
+- Diesel cars have the widest price range, present price goes up to 93.78 lakh
 - CNG cars sit in a narrow range: 5.09 to 7.74 lakh (present price)
 
 ---
